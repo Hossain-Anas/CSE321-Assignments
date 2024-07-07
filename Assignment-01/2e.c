@@ -8,7 +8,7 @@
 //     freopen("output.txt", "w", stdout);
 // }
 
-const int N = 2e5;
+const int N = 1e5;
 
 int checkPalindrome(char *str)
 {
