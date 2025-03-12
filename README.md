@@ -1,1 +1,1 @@
-# CSE321-Assignments
+# CSE321-Assignments (Summer'24)
